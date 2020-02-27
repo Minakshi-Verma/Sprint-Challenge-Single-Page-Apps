@@ -40,7 +40,7 @@ header h1 {
   text-align: center;
 }
 .app{
-  background: #ffe6ff;
+  background: #145252;
   width:100%;
   min-height:200vh;
 }
@@ -79,9 +79,22 @@ header h1 {
 }
 
 .form{
-  margin:1%;
+  margin:1%; 
 }
 
 .input{
-  padding:1%;
+  padding:3%;
+  border-radius: 10px;
+}
+
+img{
+  width:50%;
+  border-radius: 55px;
+}
+h1{
+  color:white;
+}
+nav a{
+  color:black;
+  text-decoration: none;
 }
